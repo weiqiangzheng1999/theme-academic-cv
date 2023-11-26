@@ -11,19 +11,18 @@ publication: '*Proceedings of the 40th International Conference on Machine Learn
 abstract: We consider online learning in multi-player smooth monotone games. Existing
   algorithms have limitations such as (1) being only applicable to strongly monotone
   games; (2) lacking the no-regret guarantee; (3) having only asymptotic or slow 
-  {{< math >}}$ 1/\sqrt{T} ${{< /math >}}
-  last-iterate convergence rate to a Nash equilibrium. While the (1𝑇√)O(1T)mathcalO(frac1sqrtT)
+  {{< math >}}$ O(\frac{1}{\sqrt{T}}) ${{< /math >}}
+  last-iterate convergence rate to a Nash equilibrium. While the {{< math >}}$ O(\frac{1}{\sqrt{T}}) ${{< /math >}}
   rate is tight for a large class of algorithms including the well-studied extragradient
   algorithm and optimistic gradient algorithm, it is not optimal for all gradient-based
   algorithms. We propose the accelerated optimistic gradient (AOG) algorithm, the
   first doubly optimal no-regret learning algorithm for smooth monotone games. Namely,
-  our algorithm achieves both (i) the optimal (𝑇‾‾√)O(T)mathcalO(sqrtT) regret in
+  our algorithm achieves both (i) the optimal {{< math >}}$ O(sqrt{T}) ${{< /math >}} regret in
   the adversarial setting under smooth and convex loss functions and (ii) the optimal
-  (1𝑇)O(1T)mathcalO(frac1T) last-iterate convergence rate to a Nash equilibrium in
+  {{< math >}}$ O(\frac{1}{T}) ${{< /math >}} last-iterate convergence rate to a Nash equilibrium in
   multi-player smooth monotone games. As a byproduct of the accelerated last-iterate
-  convergence rate, we further show that each player suffers only an (log𝑇)O(log⁡T)mathcalO(log
-  T) individual worst-case dynamic regret, providing an exponential improvement over
-  the previous state-of-the-art (𝑇‾‾√)O(T)mathcalO(sqrtT) bound.
+  convergence rate, we further show that each player suffers only an {{< math >}}$ O(\log T) ${{< /math >}} individual worst-case dynamic regret, providing an exponential improvement over
+  the previous state-of-the-art {{< math >}}$ O(sqrt{T}) ${{< /math >}} bound.
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2301.13120
