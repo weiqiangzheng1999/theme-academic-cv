@@ -3,8 +3,8 @@ title: Accelerated Single-Call Methods for Constrained Min-Max Optimization
 authors:
 - Yang Cai
 - Weiqiang Zheng
-date: '2023-1-15'
-publishDate: '2023-11-26T02:45:28.692023Z'
+date: '2023-01-15'
+publishDate: '2023-01-15'
 publication_types:
 - paper-conference
 publication: 'Proceedings of the 11th International Conference on Learning Representations (ICLR 2023)'
