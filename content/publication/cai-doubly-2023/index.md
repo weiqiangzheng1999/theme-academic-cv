@@ -25,7 +25,9 @@ abstract: We consider online learning in multi-player smooth monotone games. Exi
   T) individual worst-case dynamic regret, providing an exponential improvement over
   the previous state-of-the-art (𝑇‾‾√)O(T)mathcalO(sqrtT) bound.
 links:
-- name: URL
+- name: arXiv
+  url: https://arxiv.org/abs/2301.13120
+- name: PMLR
   url: https://proceedings.mlr.press/v202/cai23g.html
 
 # Summary. An optional shortened abstract.
@@ -34,7 +36,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -42,13 +44,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
