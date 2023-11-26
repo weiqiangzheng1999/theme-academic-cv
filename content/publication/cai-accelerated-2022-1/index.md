@@ -6,7 +6,7 @@ authors:
 - Argyris Oikonomou
 - Weiqiang Zheng
 date: '2022-08-01'
-publishDate: '2023-11-26T02:45:28.720441Z'
+publishDate: '2022-08-01'
 publication_types:
 - manuscript
 publication: 'Working Paper. NeurIPS 2022 OPT Workshop'
