@@ -6,9 +6,8 @@ authors:
 date: '2021-05-01'
 publishDate: '2023-11-26T02:45:28.750414Z'
 publication_types:
-- article-journal
-publication: '*Proceedings of the AAAI Conference on Artificial Intelligence*'
-doi: 10.1609/aaai.v35i6.16720
+- article-conference
+publication: 'Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)'
 abstract: The computational complexity of winner determination under common voting
   rules is a classical and fundamental topic in the field of computational social
   choice. Previous work has established the NP-hardness of winner determination under
@@ -29,6 +28,8 @@ abstract: The computational complexity of winner determination under common voti
 tags:
 - Social Choice / Voting
 links:
-- name: URL
-  url: https://ojs.aaai.org/index.php/AAAI/article/view/16720
+- name: arXiv
+  url: https://arxiv.org/abs/2010.13020
+- name: video
+  url: https://slideslive.com/38948899/the-smoothed-complexity-of-computing-kemeny-and-slater-rankings
 ---
