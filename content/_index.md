@@ -54,7 +54,9 @@ sections:
   content:
     title: Publications
     text: |-
-      Authors are in [alphabetical order](https://en.wikipedia.org/wiki/Academic_authorship#Authorship_in_mathematics,_theoretical_computer_science_and_high_energy_physics) without additional note. 
+      {{% callout note %}}
+      Quickly discover relevant content by [filtering publications](./publication/).
+      {{% /callout %}}
     filters:
       folders:
         - publication
@@ -112,8 +114,8 @@ sections:
           date_start: '2019-05-01'
           date_end: '2021-09-01'
           description: Advised by [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm).
-    design:
-      columns: '2'
+  design:
+  columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
