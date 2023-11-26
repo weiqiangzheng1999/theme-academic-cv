@@ -1,5 +1,5 @@
 ---
-title: A New paper
+title: Last-Iterate Convergence Properties of Regret-Matching Algorithms in Games
 authors:
 - Yang Cai
 - Gabriele Farian
