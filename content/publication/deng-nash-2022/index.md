@@ -9,7 +9,7 @@ date: '2022-04-01'
 publishDate: '2023-11-26T02:45:28.735482Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the ACM Web Conference 2022*'
+publication: 'Proceedings of the ACM Web Conference (WWW 2022)'
 doi: 10.1145/3485447.3512059
 abstract: 'Understanding the convergence properties of learning dynamics in repeated
   auctions is a timely and important question in the area of learning in auctions,
@@ -29,6 +29,10 @@ tags:
 - mean-based algorithms
 - online learning
 links:
-- name: URL
+- name: arXiv
+  url: https://arxiv.org/abs/2110.03906
+- name: video
+  url: https://www.youtube.com/watch?v=HIcOX28U_r0&ab_channel=XinyanHu
+- name: doi
   url: https://dl.acm.org/doi/10.1145/3485447.3512059
 ---
