@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Weiqiang Zheng
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Weiqiang
+last_name: Zheng
 
 # Status emoji
 status:
@@ -17,34 +17,30 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Department of Computer Science
+    url: https://cpsc.yale.edu/
+  - name: Yale University
+    url: https://www.yale.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Algorithmic Game theory
+  - Online Learning
+  - Min-Max Optimization
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc (Summa Cum Laude) in Computer Science
+      institution: Peking University
+      year: 2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -93,32 +89,25 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: /#contact
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=YrfhnIwAAAAJ&hl=en&oi=sra
+  - icon: dblp
+    icon_pack: ai
+    link: https://dblp.org/pid/277/5088.html
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a third-year PhD student in Computer Science at [Yale University](https://www.yale.edu/), where I am fortunate to be advised by Prof. [Yang Cai](http://www.cs.yale.edu/homes/cai/).  I received my bachelor’s degree in EECS at [Peking University](https://english.pku.edu.cn/), where I was fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm). During my undergraduate study, I also worked closely with Prof. [Lirong Xia](https://www.cs.rpi.edu/~xial/).
+
+I have a broad interest in theoretical computer science, optimization, machine learning, and economics. Currently I focus on min-max optimization and online learning in games, and try to provide theoretical understanding of deep learning and reinforcement learning.
 {style="text-align: justify;"}
