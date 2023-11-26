@@ -9,8 +9,7 @@ date: '2022-05-01'
 publishDate: '2023-11-26T02:45:28.727863Z'
 publication_types:
 - manuscript
-publication: '*arXiv*'
-doi: 10.48550/arXiv.2204.09228
+publication: 'Preliminary Version of the NeurIPS 2022 Paper Above'
 abstract: The monotone variational inequality is a central problem in mathematical
   programming that unifies and generalizes many important settings such as smooth
   convex optimization, two-player zero-sum games, convex-concave saddle point problems,
@@ -21,7 +20,7 @@ abstract: The monotone variational inequality is a central problem in mathematic
   rate of the extragradient algorithm or the optimistic gradient descent-ascent algorithm
   for monotone and Lipschitz variational inequalities with constraints? We resolve
   this open problem by showing that both the extragradient algorithm and the optimistic
-  gradient descent-ascent algorithm have a tight $Oleft(frac1sqrtTright)$ last-iterate
+  gradient descent-ascent algorithm have a tight {{< math >}}$ O(\frac{1}{\sqrt{T}}) ${{< /math >}} last-iterate
   convergence rate for arbitrary convex feasible sets, which matches the lower bound
   by Golowich et al. [2020a,b]. Our rate is measured in terms of the standard gap
   function. At the core of our results lies a non-standard performance measure --
@@ -36,6 +35,6 @@ tags:
 - Computer Science - Machine Learning
 - Mathematics - Optimization and Control
 links:
-- name: URL
+- name: arXiv
   url: http://arxiv.org/abs/2204.09228
 ---

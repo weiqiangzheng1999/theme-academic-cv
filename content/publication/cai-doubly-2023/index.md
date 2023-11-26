@@ -7,7 +7,7 @@ date: '2023-07-01'
 publishDate: '2023-11-26T02:45:28.699142Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the 40th International Conference on Machine Learning*'
+publication: 'Proceedings of the 40th International Conference on Machine Learning (ICML 2023)'
 abstract: We consider online learning in multi-player smooth monotone games. Existing
   algorithms have limitations such as (1) being only applicable to strongly monotone
   games; (2) lacking the no-regret guarantee; (3) having only asymptotic or slow 
@@ -29,8 +29,8 @@ links:
 - name: PMLR
   url: https://proceedings.mlr.press/v202/cai23g.html
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# # Summary. An optional shortened abstract.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -51,27 +51,27 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+# # Featured image
+# # To use, add an image named `featured.jpg/png` to your page's folder.
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#   focal_point: ''
+#   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
+# # Associated Projects (optional).
+# #   Associate this publication with one or more of your projects.
+# #   Simply enter your project's folder or file name without extension.
+# #   E.g. `internal-project` references `content/project/internal-project/index.md`.
+# #   Otherwise, set `projects: []`.
+# projects:
+#   - example
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+# # Slides (optional).
+# #   Associate this publication with Markdown slides.
+# #   Simply enter your slide deck's filename without extension.
+# #   E.g. `slides: "example"` references `content/slides/example/index.md`.
+# #   Otherwise, set `slides: ""`.
+# slides: example
 ---
 
 {{% callout note %}}
