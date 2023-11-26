@@ -51,19 +51,19 @@ sections:
   #   design:
   #     columns: '1'
   - block: collection
-  content:
-    title: Publications
-    text: |-
-      {{% callout note %}}
-      Quickly discover relevant content by [filtering publications](./publication/).
-      {{% /callout %}}
-    filters:
-      folders:
-        - publication
-      exclude_featured: true
-  design:
-    columns: '2'
-    view: citation
+    content:
+      title: Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: experience
     content:
       title: Experience
@@ -114,8 +114,6 @@ sections:
           date_start: '2019-05-01'
           date_end: '2021-09-01'
           description: Advised by [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm).
-  design:
-  columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
