@@ -3,7 +3,7 @@ title: Last-Iterate Convergence Properties of Regret-Matching Algorithms in Game
 authors:
 - Yang Cai
 - Gabriele Farian
-- Julien Grand-Cl{\'e}ment
+- Julien Grand-Clèment
 - Christian Kroer
 - Chung-Wei Lee
 - Haipeng Luo
