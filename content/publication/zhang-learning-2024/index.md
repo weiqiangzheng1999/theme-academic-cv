@@ -1,14 +1,12 @@
 ---
 title: Learning Thresholds with Latent Values and Censored Feedback
 authors:
-- Jiahao Zhang
+- (*) Jiahao Zhang
 - Tao Lin
 - Weiqiang Zheng
 - Zhe Feng
 - Yifeng Teng
 - Xiaotie Deng
-author_notes:
-  - "*"
 date: '2024-1-16'
 publishDate: '2024-01-16T02:45:28.681796Z'
 publication_types:
