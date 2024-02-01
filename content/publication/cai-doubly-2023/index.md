@@ -7,7 +7,7 @@ date: '2023-07-01'
 publishDate: '2023-11-26T02:45:28.699142Z'
 publication_types:
 - paper-conference
-publication: 'Proceedings of the 40th International Conference on Machine Learning (ICML 2023)'
+publication: 'Proceedings of the 40th International Conference on Machine Learning (ICML)'
 abstract: We consider online learning in multi-player smooth monotone games. Existing
   algorithms have limitations such as (1) being only applicable to strongly monotone
   games; (2) lacking the no-regret guarantee; (3) having only asymptotic or slow 

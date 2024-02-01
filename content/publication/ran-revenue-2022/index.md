@@ -15,7 +15,7 @@ publishDate: '2023-11-26T02:45:28.742862Z'
 publication_types:
 - paper-conference
 publication: 'Proceedings of the 21st International Conference on Autonomous Agents
-  and Multiagent Systems (AAMAS 2022)'
+  and Multiagent Systems (AAMAS)'
 abstract: "A new mobile attention economy has emerged with the explosive growth of
   short-video apps such as TikTok. In this internet market, three types of agents
   interact with each other: the platform, influencers, and advertisers. A short-video

@@ -7,7 +7,7 @@ date: '2023-01-15'
 publishDate: '2023-01-15'
 publication_types:
 - paper-conference
-publication: 'Proceedings of the 11th International Conference on Learning Representations (ICLR 2023)'
+publication: 'Proceedings of the 11th International Conference on Learning Representations (ICLR)'
 abstract: We study first-order methods for constrained min-max optimization. Existing
   methods either require two gradient calls or two projections in each iteration,
   which may be costly in some applications. In this paper, we first show that a variant

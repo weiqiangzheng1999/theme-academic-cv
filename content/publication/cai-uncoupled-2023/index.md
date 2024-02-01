@@ -10,7 +10,7 @@ date: '2023-11-01'
 publishDate: '2023-11-26T02:45:28.681796Z'
 publication_types:
 - paper-conference
-publication: 'The Thirty-Sixth Annual Conference on Neural Information Processing Systems (NeurIPS 2023)'
+publication: 'The Thirty-Sixth Annual Conference on Neural Information Processing Systems (NeurIPS)'
 abstract: We revisit the problem of learning in two-player zero-sum Markov games,
   focusing on developing an algorithm that is uncoupled, convergent, and rational,
   with non-asymptotic convergence rates. We start from the case of stateless matrix
