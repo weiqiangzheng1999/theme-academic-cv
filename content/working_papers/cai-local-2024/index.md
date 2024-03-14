@@ -4,14 +4,14 @@ authors:
 - Yang Cai
 - Constantinos Daskalakis
 - Haipeng Luo
-- Weiqiang Zheng
+- Chen-Yu Wei
 - Weiqiang Zheng
 date: '2024-03-11'
 publishDate: '2024-03-11'
 publication_types:
 - manuscript
 publication: 'Working Paper'
-abstract: We study constrained comonotone min-max optimization, a structured class of nonconvex-nonconcave min-max optimization problems, and their generalization to comonotone inclusion. In our first contribution, we extend the Extra Anchored Gradient (EAG) algorithm, originally proposed by Yoon and Ryu (2021) for unconstrained min-max optimization, to constrained comonotone min-max optimization and comonotone inclusion, achieving an optimal convergence rate of {{< math >}}$ O(\frac{1}{T}) ${{< /math >}} among all first-order methods. Additionally, we prove that the algorithm's iterations converge to a point in the solution set. In our second contribution, we extend the Fast Extra Gradient (FEG) algorithm, as developed by Lee and Kim (2021), to constrained comonotone min-max optimization and comonotone inclusion, achieving the same {{< math >}}$ O(\frac{1}{T}) ${{< /math >}} convergence rate. This rate is applicable to the broadest set of comonotone inclusion problems yet studied in the literature. Our analyses are based on simple potential function arguments, which might be useful for analyzing other accelerated algorithms.
+abstract: While Online Gradient Descent and other no-regret learning procedures are known to efficiently converge to coarse correlated equilibrium in games where each agent\'s utility is concave in their own strategy, this is not the case when the utilities are non-concave, a situation that is common in machine learning applications where the agents\' strategies are parameterized by deep neural networks, or the agents' utilities are computed by a neural network, or both. Indeed, non-concave games present a host of game-theoretic and optimization challenges: (i) Nash equilibria may fail to exist; (ii) local Nash equilibria exist but are intractable; and (iii) mixed Nash, correlated, and coarse correlated equilibria have infinite support in general, and are intractable. To sidestep these challenges we propose a new solution concept, termed local equilibrium, which generalizes local Nash equilibrium in non-concave games, as well as (coarse) correlated equilibrium in concave games. Importantly, we show that two instantiations of this solution concept capture the convergence guarantees of Online Gradient Descent and no-regret learning, which we show efficiently converge to this type of equilibrium in non-concave games with smooth utilities.
 tags:
 - Computer Science - Computer Science and Game Theory
 - Computer Science - Machine Learning
