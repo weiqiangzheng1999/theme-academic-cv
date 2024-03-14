@@ -66,6 +66,20 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: collection
+    id: publications
+    content:
+      title: Working Papers
+      text:
+        ---
+      count: 20
+      filters:
+        folders:
+          - working_papers
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: experience
     content:
       title: Experience
