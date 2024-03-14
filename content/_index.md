@@ -54,7 +54,6 @@ sections:
     id: publications
     content:
       title: Working Papers
-      text:
       count: 20
       filters:
         folders:
