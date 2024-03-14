@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   # - block: skills
@@ -58,7 +58,7 @@ sections:
         Authors are in [alphabetical order](https://en.wikipedia.org/wiki/Academic_authorship#Authorship_in_mathematics,_theoretical_computer_science_and_high_energy_physics) without additional note
         
         ---
-      count: 8
+      count: 20
       filters:
         folders:
           - publication
