@@ -51,7 +51,7 @@ sections:
   #   design:
   #     columns: '1'
   - block: collection
-    id: publications
+    id: workingpapers
     content:
       title: Working Papers
       count: 20
