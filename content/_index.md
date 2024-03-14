@@ -53,6 +53,20 @@ sections:
   - block: collection
     id: publications
     content:
+      title: Working Papers
+      text:
+        ---
+      count: 20
+      filters:
+        folders:
+          - working_papers
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
+    id: publications
+    content:
       title: Publications
       text: |-
         Authors are in [alphabetical order](https://en.wikipedia.org/wiki/Academic_authorship#Authorship_in_mathematics,_theoretical_computer_science_and_high_energy_physics) without additional note
@@ -62,20 +76,6 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    id: publications
-    content:
-      title: Working Papers
-      text:
-        ---
-      count: 20
-      filters:
-        folders:
-          - working_papers
         exclude_featured: true
     design:
       columns: '2'
