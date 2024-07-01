@@ -18,7 +18,8 @@ abstract:
 tags:
 - Computer Science - Computer Science and Game Theory
 - Computer Science - Machine Learning
+- Mathematics - Optimization and Control
 links:
 - name: arXiv
-  url: https://arxiv.org/abs/2311.00676
+  url: https://arxiv.org/abs/2406.10631
 ---
