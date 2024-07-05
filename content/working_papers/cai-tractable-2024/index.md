@@ -1,5 +1,5 @@
 ---
-title: Tractable Local Equilibria in Non-Concave Games
+title: On Tractable $\Phi$-Equilibria in Non-Concave Games
 authors:
 - Yang Cai
 - Constantinos Daskalakis
