@@ -11,7 +11,7 @@ publishDate: '2024-09-25'
 publication_types:
 - paper-conference
 publication: 'The Thirty-Sixth Annual Conference on Neural Information Processing Systems (NeurIPS)'
-abstract: [arXiv link](https://arxiv.org/abs/2403.08171)
+abstract:
 tags:
 - Computer Science - Computer Science and Game Theory
 - Computer Science - Machine Learning
