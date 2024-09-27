@@ -6,8 +6,8 @@ authors:
 - Haipeng Luo
 - Chen-Yu Wei
 - Weiqiang Zheng
-date: '2024-09-25'
-publishDate: '2024-09-25'
+date: '2024-09-27'
+publishDate: '2024-09-27'
 publication_types:
 - paper-conference
 publication: 'The Thirty-Sixth Annual Conference on Neural Information Processing Systems (NeurIPS)'
