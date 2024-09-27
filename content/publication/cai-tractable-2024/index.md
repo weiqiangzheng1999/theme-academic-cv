@@ -10,7 +10,7 @@ date: '2024-09-27'
 publishDate: '2024-09-27'
 publication_types:
 - paper-conference
-publication: 'The Thirty-Sixth Annual Conference on Neural Information Processing Systems (NeurIPS)'
+publication: 'The 38th Annual Conference on Neural Information Processing Systems (NeurIPS)'
 abstract:
 tags:
 - Computer Science - Computer Science and Game Theory
