@@ -8,7 +8,7 @@ date: '2022-11-01'
 publishDate: '2023-11-26T02:45:28.713498Z'
 publication_types:
 - paper-conference
-publication: 'The 36th Annual Conference on Neural Information Processing Systems (NeurIPS). <span style="color:red">Oral</span>'
+publication: 'The 36th Annual Conference on Neural Information Processing Systems (NeurIPS). <span style="color:green">Selected for Oral Presentation</span>'
 abstract: We study the question of last-iterate convergence rate of the extragradient
   algorithm by Korpelevich [1976] and the optimistic gradient algorithm by Popov [1980]
   in multi-player games. We show that both algorithms with constant step-size have
