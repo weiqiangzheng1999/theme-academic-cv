@@ -6,11 +6,15 @@ authors:
 - Weiqiang Zheng
 - Yang Cai
 - Arman Cohan
+author_notes:
+  - "Equal Contribution"
+  - "Equal Contribution"
+  - "Equal Contribution"
 date: '2024-10-01'
 publishDate: '2024-10-01'
 publication_types:
 - manuscript
-publication: 'Working Paper'
+publication: 'NeurIPS workshop on Fine-Tuning in Modern Machine Learning: Principles and Scalability (FITML). <span style="color:red">Oral</span>'
 abstract: 
 
 tags:
