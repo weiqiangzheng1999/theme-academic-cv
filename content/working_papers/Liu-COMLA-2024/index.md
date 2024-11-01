@@ -1,5 +1,5 @@
 ---
-title: COMAL: A Convergent Meta-Algorithm for Aligning LLMs with General Preferences
+title: COMAL: A Convergent Meta Algorithm for Aligning LLMs with General Preferences
 authors:
 - Yixin Liu
 - Argyris Oikonomou
