@@ -107,7 +107,7 @@ social:
 highlight_name: true
 ---
 
-I am a third-year PhD student in Computer Science at [Yale University](https://www.yale.edu/), where I am fortunate to be advised by Prof. [Yang Cai](http://www.cs.yale.edu/homes/cai/).  I received my bachelor’s degree in EECS at [Peking University](https://english.pku.edu.cn/), where I was fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm). During my undergraduate study, I also worked closely with Prof. [Lirong Xia](https://www.cs.rpi.edu/~xial/).
+I am a fourth-year PhD student in Computer Science at [Yale University](https://www.yale.edu/), where I am fortunate to be advised by Prof. [Yang Cai](http://www.cs.yale.edu/homes/cai/).  I received my bachelor’s degree in EECS at [Peking University](https://english.pku.edu.cn/), where I was fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm). During my undergraduate study, I also worked closely with Prof. [Lirong Xia](https://www.cs.rpi.edu/~xial/).
 
 I have a broad interest in theoretical computer science, optimization, machine learning, and economics. Currently I focus on min-max optimization and online learning in games, and try to provide theoretical understanding of deep learning and reinforcement learning.
 {style="text-align: justify;"}
