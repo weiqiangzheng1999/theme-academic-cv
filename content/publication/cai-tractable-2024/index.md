@@ -18,4 +18,6 @@ tags:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2403.08171
+- name: slides
+  url: https://docs.google.com/presentation/d/1PmAtSnLrAXfvc0AN2_0hupwA3kvCOPcU/edit?usp=sharing&ouid=112492238116028494469&rtpof=true&sd=true
 ---
