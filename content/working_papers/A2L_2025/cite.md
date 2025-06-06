@@ -5,6 +5,5 @@
       eprint={2506.03464},
       archivePrefix={arXiv},
       primaryClass={cs.GT},
-      url={https://arxiv.org/abs/2506.03464}, 
+      url={https://arxiv.org/abs/2506.03464}
 }
-

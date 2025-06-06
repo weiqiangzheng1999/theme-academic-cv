@@ -5,7 +5,6 @@ authors:
 - Haipeng Luo
 - Chen-Yu Wei
 - Weiqiang Zheng
-author_notes:
 date: '2025-6-6'
 publishDate: '2025-6-6'
 publication_types:
