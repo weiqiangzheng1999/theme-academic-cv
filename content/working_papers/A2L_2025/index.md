@@ -5,8 +5,8 @@ authors:
 - Haipeng Luo
 - Chen-Yu Wei
 - Weiqiang Zheng
-date: '2025-6-6'
-publishDate: '2025-6-6'
+date: '2025-06-06'
+publishDate: '2025-06-06'
 publication_types:
 - manuscript
 publication: 'Working Paper'
