@@ -111,4 +111,6 @@ I am a fourth-year PhD student in Computer Science at [Yale University](https://
 
 I have a broad interest in theoretical computer science, optimization, machine learning, and economics. Currently I focus on min-max optimization and online learning in games, and try to provide theoretical understanding of deep learning and reinforcement learning.
 
+I am honored to be recognized as a [KAUST rising star in AI](https://www.kaust.edu.sa/en/news/rising-stars-in-ai-symposium-2025).
+
 {style="text-align: justify;"}

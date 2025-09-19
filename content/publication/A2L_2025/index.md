@@ -9,7 +9,7 @@ date: '2025-06-06'
 publishDate: '2025-06-06'
 publication_types:
 - manuscript
-publication: 'Working Paper'
+publication: 'The 39th Annual Conference on Neural Information Processing Systems (NeurIPS)'
 abstract: 
 
 tags:
