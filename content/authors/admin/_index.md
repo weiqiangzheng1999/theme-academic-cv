@@ -107,9 +107,9 @@ social:
 highlight_name: true
 ---
 
-I am a fourth-year PhD student in Computer Science at [Yale University](https://www.yale.edu/), where I am fortunate to be advised by Prof. [Yang Cai](http://www.cs.yale.edu/homes/cai/).  I received my bachelor’s degree in EECS at [Peking University](https://english.pku.edu.cn/), where I was fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm). During my undergraduate study, I also worked closely with Prof. [Lirong Xia](https://www.cs.rpi.edu/~xial/).
+I am a fifth-year PhD student in Computer Science at [Yale University](https://www.yale.edu/), where I am fortunate to be advised by Prof. [Yang Cai](http://www.cs.yale.edu/homes/cai/).  I received my bachelor’s degree in EECS at [Peking University](https://english.pku.edu.cn/), where I was fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm). During my undergraduate study, I also worked closely with Prof. [Lirong Xia](https://www.cs.rpi.edu/~xial/).
 
-I have a broad interest in theoretical computer science, optimization, machine learning, and economics. Currently I focus on min-max optimization and online learning in games, and try to provide theoretical understanding of deep learning and reinforcement learning.
+I have a broad interest in learning, optimization, and economics. My current research focuses on the interdisciplinary area of learning in games, which aims to (1) understand dynamics of strategically learning agents in games; (2) design and analyze fast algrothms for game solving; (3) propose new game-theoretical approaches for practical problems including LLM alignment.
 
 I am honored to be recognized as a [KAUST rising star in AI](https://www.kaust.edu.sa/en/news/rising-stars-in-ai-symposium-2025).
 
