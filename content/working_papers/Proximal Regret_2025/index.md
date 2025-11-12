@@ -1,5 +1,5 @@
 ---
-title: 'Fisher Meets Lindahl: A Unified Duality Framework for Market Equilibrium'
+title: 'Proximal Regret and Proximal Correlated Equilibria: A New Tractable Solution Concept for Online Learning and Games'
 authors:
 - Yang Cai
 - Constantinos Daskalakis
